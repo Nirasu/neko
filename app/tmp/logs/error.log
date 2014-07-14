@@ -1,0 +1,1824 @@
+2014-05-26 10:01:55 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/User
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:05:20 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/transact
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:06:00 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/Transact
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:06:58 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/Transact
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:06:59 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/Transact
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:06:59 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/Transact
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:06:59 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/Transact
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:28:39 Error: [MissingControllerException] Controller class CartController could not be found.
+Exception Attributes: array (
+  'class' => 'CartController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/cart
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:28:47 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:28:47 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:29:38 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/transact
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:29:40 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/transact
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:30:39 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/transact/cart
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:30:45 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:31:47 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:31:47 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:31:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:31:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:31:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:31:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:31:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:31:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:32:21 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/var/www/boutique/app/Controller/TransactController.php, line 4]
+2014-05-26 10:32:21 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:32:21 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/var/www/boutique/app/Controller/TransactController.php, line 4]
+2014-05-26 10:32:21 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:32:22 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/var/www/boutique/app/Controller/TransactController.php, line 4]
+2014-05-26 10:32:22 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:32:23 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/var/www/boutique/app/Controller/TransactController.php, line 4]
+2014-05-26 10:32:23 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:32:23 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/var/www/boutique/app/Controller/TransactController.php, line 4]
+2014-05-26 10:32:23 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:36:41 Error: Fatal Error (4): syntax error, unexpected 'function' (T_FUNCTION), expecting '{' in [/var/www/boutique/app/Controller/TransactController.php, line 8]
+2014-05-26 10:36:41 Error: [FatalErrorException] syntax error, unexpected 'function' (T_FUNCTION), expecting '{'
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:36:42 Error: Fatal Error (4): syntax error, unexpected 'function' (T_FUNCTION), expecting '{' in [/var/www/boutique/app/Controller/TransactController.php, line 8]
+2014-05-26 10:36:42 Error: [FatalErrorException] syntax error, unexpected 'function' (T_FUNCTION), expecting '{'
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:36:42 Error: Fatal Error (4): syntax error, unexpected 'function' (T_FUNCTION), expecting '{' in [/var/www/boutique/app/Controller/TransactController.php, line 8]
+2014-05-26 10:36:42 Error: [FatalErrorException] syntax error, unexpected 'function' (T_FUNCTION), expecting '{'
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:36:43 Error: Fatal Error (4): syntax error, unexpected 'function' (T_FUNCTION), expecting '{' in [/var/www/boutique/app/Controller/TransactController.php, line 8]
+2014-05-26 10:36:43 Error: [FatalErrorException] syntax error, unexpected 'function' (T_FUNCTION), expecting '{'
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:36:44 Error: Fatal Error (4): syntax error, unexpected 'function' (T_FUNCTION), expecting '{' in [/var/www/boutique/app/Controller/TransactController.php, line 8]
+2014-05-26 10:36:44 Error: [FatalErrorException] syntax error, unexpected 'function' (T_FUNCTION), expecting '{'
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 8, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:41:00 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:41:00 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:41:01 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:41:01 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:41:01 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:41:01 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:41:18 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:41:20 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:42:34 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:42:34 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:42:35 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:42:35 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:42:36 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/Controller/TransactController.php, line 3]
+2014-05-26 10:42:36 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:44:36 Error: [MissingControllerException] Controller class TransactController could not be found.
+Exception Attributes: array (
+  'class' => 'TransactController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 10:48:32 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 9]
+2014-05-26 10:48:32 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:48:32 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 9]
+2014-05-26 10:48:32 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:48:44 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 9]
+2014-05-26 10:48:44 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:48:44 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 9]
+2014-05-26 10:48:44 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:48:49 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 9]
+2014-05-26 10:48:49 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 9, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:54:02 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/boutique/app/View/Transact/index.ctp, line 5]
+2014-05-26 10:54:02 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 5, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 5, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:54:04 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/boutique/app/View/Transact/index.ctp, line 5]
+2014-05-26 10:54:04 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 5, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 5, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 10:56:52 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/boutique/app/View/Transact/index.ctp, line 4]
+2014-05-26 10:56:52 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 4, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:12:28 Error: Fatal Error (4): syntax error, unexpected '$type' (T_VARIABLE) in [/var/www/boutique/app/View/Transact/index.ctp, line 2]
+2014-05-26 11:12:28 Error: [FatalErrorException] syntax error, unexpected '$type' (T_VARIABLE)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 2, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 2, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:13:02 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:13:02 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:13:03 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:13:03 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:13:40 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:13:40 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:08 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:08 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:10 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:10 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:10 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:10 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:11 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:11 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:11 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:11 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:11 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:11 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:11 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:11 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:11 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:11 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:12 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:12 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:12 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:12 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:12 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:12 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:12 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:12 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:12 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:12 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:12 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:12 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:12 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:12 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:23:13 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:23:13 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:45 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:45 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:46 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:46 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:47 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:47 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:47 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:47 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:48 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:48 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:49 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:49 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:50 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:50 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:50 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:50 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 11:24:50 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/boutique/app/View/Transact/index.ctp, line 3]
+2014-05-26 11:24:50 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /boutique/transact/index
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 3, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 12:45:38 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/admin
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-26 14:33:56 Error: [MissingTableException] Table app_models for model AppModel was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'app_models',
+  'class' => 'AppModel',
+  'ds' => 'default',
+)
+Request URL: /boutique/transact/product/1
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Model.php(3501): Model->setSource('app_models')
+#1 /var/www/boutique/lib/Cake/Model/Model.php(1357): Model->getDataSource()
+#2 /var/www/boutique/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /var/www/boutique/lib/Cake/View/Helper/FormHelper.php(467): FormHelper->_introspectModel('AppModel', 'fields')
+#4 /var/www/boutique/app/View/Transact/product.ctp(11): FormHelper->create('AppModel', Array)
+#5 /var/www/boutique/lib/Cake/View/View.php(948): include('/var/www/boutiq...')
+#6 /var/www/boutique/lib/Cake/View/View.php(910): View->_evaluate('/var/www/boutiq...', Array)
+#7 /var/www/boutique/lib/Cake/View/View.php(471): View->_render('/var/www/boutiq...')
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-26 14:34:09 Error: [MissingTableException] Table app_models for model AppModel was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'app_models',
+  'class' => 'AppModel',
+  'ds' => 'default',
+)
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Model.php(3501): Model->setSource('app_models')
+#1 /var/www/boutique/lib/Cake/Model/Model.php(1357): Model->getDataSource()
+#2 /var/www/boutique/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /var/www/boutique/lib/Cake/View/Helper/FormHelper.php(467): FormHelper->_introspectModel('AppModel', 'fields')
+#4 /var/www/boutique/app/View/Transact/product.ctp(11): FormHelper->create('AppModel', Array)
+#5 /var/www/boutique/lib/Cake/View/View.php(948): include('/var/www/boutiq...')
+#6 /var/www/boutique/lib/Cake/View/View.php(910): View->_evaluate('/var/www/boutiq...', Array)
+#7 /var/www/boutique/lib/Cake/View/View.php(471): View->_render('/var/www/boutiq...')
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-26 14:34:10 Error: [MissingTableException] Table app_models for model AppModel was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'app_models',
+  'class' => 'AppModel',
+  'ds' => 'default',
+)
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Model.php(3501): Model->setSource('app_models')
+#1 /var/www/boutique/lib/Cake/Model/Model.php(1357): Model->getDataSource()
+#2 /var/www/boutique/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /var/www/boutique/lib/Cake/View/Helper/FormHelper.php(467): FormHelper->_introspectModel('AppModel', 'fields')
+#4 /var/www/boutique/app/View/Transact/product.ctp(11): FormHelper->create('AppModel', Array)
+#5 /var/www/boutique/lib/Cake/View/View.php(948): include('/var/www/boutiq...')
+#6 /var/www/boutique/lib/Cake/View/View.php(910): View->_evaluate('/var/www/boutiq...', Array)
+#7 /var/www/boutique/lib/Cake/View/View.php(471): View->_render('/var/www/boutiq...')
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-26 14:34:23 Error: [MissingTableException] Table app_models for model AppModel was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'app_models',
+  'class' => 'AppModel',
+  'ds' => 'default',
+)
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Model.php(3501): Model->setSource('app_models')
+#1 /var/www/boutique/lib/Cake/Model/Model.php(1357): Model->getDataSource()
+#2 /var/www/boutique/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /var/www/boutique/lib/Cake/View/Helper/FormHelper.php(467): FormHelper->_introspectModel('AppModel', 'fields')
+#4 /var/www/boutique/app/View/Transact/product.ctp(11): FormHelper->create('AppModel', Array)
+#5 /var/www/boutique/lib/Cake/View/View.php(948): include('/var/www/boutiq...')
+#6 /var/www/boutique/lib/Cake/View/View.php(910): View->_evaluate('/var/www/boutiq...', Array)
+#7 /var/www/boutique/lib/Cake/View/View.php(471): View->_render('/var/www/boutiq...')
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-26 14:36:06 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:36:06 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:36:08 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:36:08 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:54 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:54 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:55 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:55 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:56 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:56 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:56 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:56 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:56 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:56 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:57 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:57 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:57 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:57 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:57 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:57 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:57 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:57 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:57 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:57 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:57 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:57 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:58 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:58 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:58 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:58 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:39:58 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:39:58 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:40:34 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Products.id' in 'where clause'
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Product...', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Product...', Array, Array)
+#3 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Product...', false)
+#4 /var/www/boutique/lib/Cake/Model/Model.php(2905): DboSource->read(Object(Product), Array)
+#5 /var/www/boutique/lib/Cake/Model/Model.php(2877): Model->_readDataSource('all', Array)
+#6 /var/www/boutique/app/Controller/TransactController.php(27): Model->find('all', Array)
+#7 [internal function]: TransactController->product()
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-26 14:40:34 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Products.id' in 'where clause'
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Product...', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Product...', Array, Array)
+#3 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Product...', false)
+#4 /var/www/boutique/lib/Cake/Model/Model.php(2905): DboSource->read(Object(Product), Array)
+#5 /var/www/boutique/lib/Cake/Model/Model.php(2877): Model->_readDataSource('all', Array)
+#6 /var/www/boutique/app/Controller/TransactController.php(27): Model->find('all', Array)
+#7 [internal function]: TransactController->product()
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-05-26 14:40:54 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:40:54 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:40:55 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:40:55 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:45:41 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:45:41 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product/8
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-26 14:45:48 Error: Fatal Error (1): Call to undefined method View::input() in [/var/www/boutique/app/View/Transact/product.ctp, line 14]
+2014-05-26 14:45:48 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /boutique/transact/product/1
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/boutiq...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/boutiq...', 14, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 08:26:40 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/user
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-28 08:29:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`boutique`.`types`, CONSTRAINT `bill_id_2` FOREIGN KEY (`bill_id`) REFERENCES `bills` (`id`))
+Request URL: /boutique/types/add
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /var/www/boutique/lib/Cake/Model/Model.php(1834): DboSource->create(Object(Type), Array, Array)
+#4 /var/www/boutique/app/Controller/TypesController.php(51): Model->save(Array)
+#5 [internal function]: TypesController->add()
+#6 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TypesController), Array)
+#7 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TypesController), Object(CakeRequest))
+#9 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-06-02 09:13:29 Error: [MissingControllerException] Controller class CartController could not be found.
+Exception Attributes: array (
+  'class' => 'CartController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/cart
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-02 09:13:54 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:13:54 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/transact
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:14:01 Error: [MissingControllerException] Controller class CartController could not be found.
+Exception Attributes: array (
+  'class' => 'CartController',
+  'plugin' => NULL,
+)
+Request URL: /boutique/cart
+Stack Trace:
+#0 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-06-02 09:14:35 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:14:35 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/transact
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:15:10 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:15:10 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/transact/product
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:15:18 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:15:18 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/transact/product/1
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:15:23 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:15:23 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:17:32 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:17:32 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/Transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:17:38 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:17:38 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:18:13 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:18:13 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:18:14 Error: Fatal Error (64): Multiple access type modifiers are not allowed in [/var/www/boutique/app/Controller/TransactController.php, line 35]
+2014-06-02 09:18:14 Error: [FatalErrorException] Multiple access type modifiers are not allowed
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Multiple access...', '/var/www/boutiq...', 35)
+#1 [internal function]: ErrorHandler::handleError(64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'Multiple access...', '/var/www/boutiq...', 35, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:19:16 Error: Fatal Error (4): syntax error, unexpected '=' in [/var/www/boutique/app/Controller/TransactController.php, line 47]
+2014-06-02 09:19:16 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 47, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 47, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:19:17 Error: Fatal Error (4): syntax error, unexpected '=' in [/var/www/boutique/app/Controller/TransactController.php, line 47]
+2014-06-02 09:19:17 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 47, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 47, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:19:18 Error: Fatal Error (4): syntax error, unexpected '=' in [/var/www/boutique/app/Controller/TransactController.php, line 47]
+2014-06-02 09:19:18 Error: [FatalErrorException] syntax error, unexpected '='
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 47, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 47, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:21:55 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [/var/www/boutique/app/Controller/TransactController.php, line 71]
+2014-06-02 09:21:55 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 71)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 71, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 71, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:26:41 Error: Fatal Error (4): syntax error, unexpected 'else' (T_ELSE) in [/var/www/boutique/app/Controller/TransactController.php, line 79]
+2014-06-02 09:26:41 Error: [FatalErrorException] syntax error, unexpected 'else' (T_ELSE)
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 79)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 79, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 79, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:27:15 Error: Fatal Error (4): syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in [/var/www/boutique/app/Controller/TransactController.php, line 79]
+2014-06-02 09:27:15 Error: [FatalErrorException] syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION)
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 79)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 79, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 79, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:27:40 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/boutique/app/Controller/TransactController.php, line 93]
+2014-06-02 09:27:40 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /boutique/transact/product/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 93)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 93, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 93, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:28:20 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:28:20 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:29:57 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:29:57 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:30:02 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:30:02 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:30:05 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:30:05 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:32:28 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:32:28 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:36:02 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:36:02 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:36:39 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:36:39 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:42:56 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 69]
+2014-06-02 09:42:56 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 69)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 69, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 69, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:43:40 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:43:40 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:48:34 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:48:34 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:48:38 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:48:38 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:48:43 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:48:43 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:49:38 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:49:38 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:49:46 Error: Fatal Error (1): Call to a member function save() on a non-object in [/var/www/boutique/app/Controller/TransactController.php, line 68]
+2014-06-02 09:49:46 Error: [FatalErrorException] Call to a member function save() on a non-object
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/boutiq...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/boutiq...', 68, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 09:54:41 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bill_id' cannot be null
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /var/www/boutique/lib/Cake/Model/Model.php(1834): DboSource->create(Object(BillsProduct), Array, Array)
+#4 /var/www/boutique/app/Controller/TransactController.php(68): Model->save(Array)
+#5 [internal function]: TransactController->action_add_to_cart()
+#6 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#7 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#9 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-06-02 10:07:13 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getLastID' at line 1
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('getLastID', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('getLastID', Array, Array)
+#3 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('getLastID', Array, Array)
+#4 /var/www/boutique/lib/Cake/Model/Model.php(800): DboSource->query('getLastID', Array, Object(Bill))
+#5 /var/www/boutique/app/Controller/TransactController.php(59): Model->__call('getLastID', Array)
+#6 /var/www/boutique/app/Controller/TransactController.php(59): Bill->getLastID()
+#7 [internal function]: TransactController->action_add_to_cart()
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-06-02 10:11:45 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getErrorMessage' at line 1
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('getErrorMessage', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('getErrorMessage', Array, Array)
+#3 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('getErrorMessage', Array, Array)
+#4 /var/www/boutique/lib/Cake/Model/Model.php(800): DboSource->query('getErrorMessage', Array, Object(Bill))
+#5 /var/www/boutique/app/Controller/TransactController.php(53): Model->__call('getErrorMessage', Array)
+#6 /var/www/boutique/app/Controller/TransactController.php(53): Bill->getErrorMessage()
+#7 [internal function]: TransactController->action_add_to_cart()
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-06-02 10:14:19 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dbErrorUserStr' at line 1
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('dbErrorUserStr', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('dbErrorUserStr', Array, Array)
+#3 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('dbErrorUserStr', Array, Array)
+#4 /var/www/boutique/lib/Cake/Model/Model.php(800): DboSource->query('dbErrorUserStr', Array, Object(Bill))
+#5 /var/www/boutique/app/Controller/TransactController.php(53): Model->__call('dbErrorUserStr', Array)
+#6 /var/www/boutique/app/Controller/TransactController.php(53): Bill->dbErrorUserStr()
+#7 [internal function]: TransactController->action_add_to_cart()
+#8 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#9 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#11 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-06-02 10:17:42 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`boutique`.`bills_products`, CONSTRAINT `product_id` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`))
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /var/www/boutique/lib/Cake/Model/Model.php(1834): DboSource->create(Object(BillsProduct), Array, Array)
+#4 /var/www/boutique/app/Controller/TransactController.php(69): Model->save(Array)
+#5 [internal function]: TransactController->action_add_to_cart()
+#6 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#7 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#9 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-06-02 10:19:24 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`boutique`.`bills_products`, CONSTRAINT `product_id` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`))
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /var/www/boutique/lib/Cake/Model/Model.php(1834): DboSource->create(Object(BillsProduct), Array, Array)
+#4 /var/www/boutique/app/Controller/TransactController.php(69): Model->save(Array)
+#5 [internal function]: TransactController->action_add_to_cart()
+#6 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#7 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#9 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-06-02 10:36:43 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`boutique`.`bills_products`, CONSTRAINT `product_id` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`))
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /var/www/boutique/lib/Cake/Model/Model.php(1834): DboSource->create(Object(BillsProduct), Array, Array)
+#4 /var/www/boutique/app/Controller/TransactController.php(69): Model->save(Array)
+#5 [internal function]: TransactController->action_add_to_cart()
+#6 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#7 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#9 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-06-02 10:36:50 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`boutique`.`bills_products`, CONSTRAINT `product_id` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`))
+Request URL: /boutique/transact/action_add_to_cart
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /var/www/boutique/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /var/www/boutique/lib/Cake/Model/Model.php(1834): DboSource->create(Object(BillsProduct), Array, Array)
+#4 /var/www/boutique/app/Controller/TransactController.php(69): Model->save(Array)
+#5 [internal function]: TransactController->action_add_to_cart()
+#6 /var/www/boutique/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TransactController), Array)
+#7 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#9 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-06-02 10:37:11 Error: [MissingActionException] Action TransactController::PRODUCTS() could not be found.
+Exception Attributes: array (
+  'controller' => 'TransactController',
+  'action' => 'PRODUCTS',
+)
+Request URL: /boutique/transact/PRODUCTS
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#2 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-06-02 10:37:18 Error: [MissingActionException] Action TransactController::products() could not be found.
+Exception Attributes: array (
+  'controller' => 'TransactController',
+  'action' => 'products',
+)
+Request URL: /boutique/transact/products
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#2 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-06-02 10:37:29 Error: [MissingActionException] Action TransactController::users() could not be found.
+Exception Attributes: array (
+  'controller' => 'TransactController',
+  'action' => 'users',
+)
+Request URL: /boutique/transact/users
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#2 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-06-02 13:12:02 Error: Fatal Error (4): syntax error, unexpected 'class' (T_CLASS) in [/var/www/boutique/app/Controller/TransactController.php, line 6]
+2014-06-02 13:12:02 Error: [FatalErrorException] syntax error, unexpected 'class' (T_CLASS)
+Request URL: /boutique/transact/
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 6, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 6, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 13:12:10 Error: Fatal Error (4): syntax error, unexpected 'class' (T_CLASS) in [/var/www/boutique/app/Controller/TransactController.php, line 6]
+2014-06-02 13:12:10 Error: [FatalErrorException] syntax error, unexpected 'class' (T_CLASS)
+Request URL: /boutique/transact
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 6, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 6, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 14:31:05 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/boutique/app/Controller/TransactController.php, line 114]
+2014-06-02 14:31:05 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /boutique/transact
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 114)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 114, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 114, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 14:33:27 Error: [MissingViewException] View file "/var/www/boutique/app/View/Transact/test_paypal.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/boutique/app/View/Transact/test_paypal.ctp',
+)
+Request URL: /boutique/transact/testPaypal
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /var/www/boutique/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /var/www/boutique/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TransactController), Object(CakeRequest))
+#4 /var/www/boutique/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-06-02 14:43:53 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/var/www/boutique/app/Controller/TransactController.php, line 135]
+2014-06-02 14:43:53 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+Request URL: /boutique/transact/testPaypal
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 135)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 135, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 135, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 14:45:00 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/boutique/app/Controller/TransactController.php, line 127]
+2014-06-02 14:45:00 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /boutique/transact/testPaypal
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 127)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 127, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 127, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-02 14:46:20 Error: Fatal Error (4): syntax error, unexpected '{', expecting '(' in [/var/www/boutique/app/Controller/TransactController.php, line 135]
+2014-06-02 14:46:20 Error: [FatalErrorException] syntax error, unexpected '{', expecting '('
+Request URL: /boutique/transact/testPaypal
+Stack Trace:
+#0 /var/www/boutique/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/boutiq...', 135)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/boutiq...', 135, Array)
+#2 /var/www/boutique/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/boutiq...', 135, Array)
+#3 /var/www/boutique/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
